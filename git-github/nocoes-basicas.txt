@@ -1,8 +1,6 @@
-nocoes-basicas
+##Noções básicas de Git/GitHub
 
-Noções básicas de Git/GitHub
-
-Comandos:
+**Comandos:**
 
 - cd: abrir diretório
 - cd .. : voltar um nível do diretório
