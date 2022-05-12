@@ -1,0 +1,10 @@
+nocoes-basicas
+
+Noções básicas de Git/GitHub
+
+Comandos:
+
+- cd: abrir diretório
+- cd .. : voltar um nível do diretório
+- echo
+- clone: copiar repositório GitHub
