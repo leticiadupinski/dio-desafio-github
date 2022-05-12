@@ -8,3 +8,10 @@ Comandos:
 - cd .. : voltar um nível do diretório
 - echo
 - clone: copiar repositório GitHub
+- open: abrir arquivo
+- ls: exibir diretórios
+- git status: exibe status
+- git add *
+- git commit -m "anotações sobre"
+- git push origin main: enviar versão para o GitHub
+- git pula Origin mais: fazer o download da última versão disponível no GitHub
